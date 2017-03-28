@@ -1,2 +1,5 @@
 # hello-world
-This is just a "Get Started" project
+
+Hello World!
+I am GG, I'm learning html and css and plan to continue with front-end development.
+
